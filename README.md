@@ -1,4 +1,4 @@
-# CommissionLens 🔍
+# CommissionLens 
 
 **Commission-Adjusted Alpha Prediction in Indian Mutual Funds**
 
