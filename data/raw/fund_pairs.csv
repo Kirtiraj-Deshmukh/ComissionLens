@@ -1,0 +1,251 @@
+fund_id,amc,subcategory,base_name,regular_code,direct_code,direct_er,regular_er,expense_gap,aum_cr,manager_tenure_yrs,portfolio_turnover,beta
+0,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 1,100000,100001,0.78,1.65,0.87,2897.0,3.2,0.56,0.735
+1,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 2,100002,100003,0.6,1.97,1.37,10770.0,10.9,0.25,1.282
+2,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 3,100004,100005,0.41,1.74,1.33,547.0,5.3,1.41,0.959
+3,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 4,100006,100007,0.61,1.4,0.79,545.0,3.0,0.87,0.92
+4,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 5,100008,100009,0.69,1.65,0.96,1214.0,9.3,0.31,1.065
+5,Axis Mutual Fund,Focused Fund,Axis Focused Fund 6,100010,100011,0.33,1.0,0.67,129.0,14.3,2.42,1.185
+6,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 7,100012,100013,0.35,1.15,0.8,445.0,2.7,1.34,0.721
+7,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 8,100014,100015,0.43,1.84,1.41,17649.0,10.3,0.92,1.012
+8,DSP Mutual Fund,Value Fund,DSP Value Fund 9,100016,100017,0.39,1.44,1.05,3320.0,2.2,0.65,0.727
+9,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 10,100018,100019,0.49,1.32,0.83,1418.0,4.8,2.11,0.914
+10,Aditya Birla Sun Life Mutual Fund,Large Cap Fund,Aditya Large Cap Fund 11,100020,100021,0.57,1.35,0.78,1783.0,2.0,2.47,1.163
+11,Tata Mutual Fund,Mid Cap Fund,Tata Mid Cap Fund 12,100022,100023,0.3,1.0,0.7,615.0,12.4,1.83,1.137
+12,PGIM India Mutual Fund,Small Cap Fund,PGIM Small Cap Fund 13,100024,100025,0.34,1.61,1.27,311.0,13.1,1.63,0.899
+13,Edelweiss Mutual Fund,Flexi Cap Fund,Edelweiss Flexi Cap Fund 14,100026,100027,0.46,1.02,0.56,690.0,5.6,1.88,1.083
+14,Bandhan Mutual Fund,ELSS,Bandhan ELSS 15,100028,100029,0.54,1.93,1.39,1886.0,11.7,1.49,1.163
+15,SBI Mutual Fund,Focused Fund,SBI Focused Fund 16,100030,100031,0.56,1.55,0.99,417.0,7.0,0.26,0.765
+16,HDFC Mutual Fund,Multi Cap Fund,HDFC Multi Cap Fund 17,100032,100033,0.62,1.15,0.53,1258.0,13.7,0.77,0.946
+17,ICICI Prudential Mutual Fund,Large & Mid Cap Fund,ICICI Large & Mid Cap Fund 18,100034,100035,0.41,1.67,1.26,56.0,2.1,0.87,0.797
+18,Nippon India Mutual Fund,Value Fund,Nippon Value Fund 19,100036,100037,0.7,2.13,1.43,4329.0,12.3,0.63,1.236
+19,Kotak Mahindra Mutual Fund,Contra Fund,Kotak Contra Fund 20,100038,100039,0.7,1.74,1.04,1796.0,13.5,0.93,0.766
+20,Axis Mutual Fund,Large Cap Fund,Axis Large Cap Fund 21,100040,100041,0.51,1.24,0.73,1710.0,1.1,1.37,0.95
+21,UTI Mutual Fund,Mid Cap Fund,UTI Mid Cap Fund 22,100042,100043,0.36,1.08,0.72,1622.0,5.7,2.37,0.894
+22,Mirae Asset Mutual Fund,Small Cap Fund,Mirae Small Cap Fund 23,100044,100045,0.65,1.67,1.02,1614.0,14.5,0.78,0.998
+23,DSP Mutual Fund,Flexi Cap Fund,DSP Flexi Cap Fund 24,100046,100047,0.44,1.24,0.8,981.0,1.5,1.6,1.002
+24,Franklin Templeton Mutual Fund,ELSS,Franklin ELSS 25,100048,100049,0.44,0.99,0.55,822.0,3.0,1.33,1.291
+25,Aditya Birla Sun Life Mutual Fund,Focused Fund,Aditya Focused Fund 26,100050,100051,0.64,1.38,0.74,1724.0,11.7,0.75,1.137
+26,Tata Mutual Fund,Multi Cap Fund,Tata Multi Cap Fund 27,100052,100053,0.62,1.49,0.87,2645.0,2.3,2.12,0.892
+27,PGIM India Mutual Fund,Large & Mid Cap Fund,PGIM Large & Mid Cap Fund 28,100054,100055,0.32,1.01,0.69,29310.0,9.3,1.76,0.71
+28,Edelweiss Mutual Fund,Value Fund,Edelweiss Value Fund 29,100056,100057,0.41,1.42,1.01,223.0,10.7,1.09,1.262
+29,Bandhan Mutual Fund,Contra Fund,Bandhan Contra Fund 30,100058,100059,0.47,1.11,0.64,2231.0,2.6,2.33,1.226
+30,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 31,100060,100061,0.63,1.39,0.76,1543.0,8.4,0.76,0.756
+31,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 32,100062,100063,0.75,2.15,1.4,7791.0,9.9,0.98,0.91
+32,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 33,100064,100065,0.75,1.98,1.23,1597.0,10.0,0.39,0.797
+33,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 34,100066,100067,0.6,2.0,1.4,1844.0,1.1,0.43,1.098
+34,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 35,100068,100069,0.38,0.89,0.51,18010.0,10.1,0.72,1.127
+35,Axis Mutual Fund,Focused Fund,Axis Focused Fund 36,100070,100071,0.46,1.2,0.74,2232.0,11.5,1.69,1.21
+36,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 37,100072,100073,0.58,1.74,1.16,759.0,4.7,0.76,1.284
+37,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 38,100074,100075,0.75,1.64,0.89,354.0,9.8,2.03,1.002
+38,DSP Mutual Fund,Value Fund,DSP Value Fund 39,100076,100077,0.55,1.63,1.08,2803.0,4.9,0.26,1.087
+39,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 40,100078,100079,0.77,1.45,0.68,303.0,14.4,2.3,0.922
+40,Aditya Birla Sun Life Mutual Fund,Large Cap Fund,Aditya Large Cap Fund 41,100080,100081,0.76,1.28,0.52,2230.0,14.5,2.16,0.877
+41,Tata Mutual Fund,Mid Cap Fund,Tata Mid Cap Fund 42,100082,100083,0.73,1.62,0.89,983.0,5.4,0.59,1.034
+42,PGIM India Mutual Fund,Small Cap Fund,PGIM Small Cap Fund 43,100084,100085,0.65,2.09,1.44,291.0,9.6,2.48,0.784
+43,Edelweiss Mutual Fund,Flexi Cap Fund,Edelweiss Flexi Cap Fund 44,100086,100087,0.74,1.76,1.02,1381.0,11.4,1.8,1.121
+44,Bandhan Mutual Fund,ELSS,Bandhan ELSS 45,100088,100089,0.45,1.31,0.86,2375.0,13.1,2.3,1.007
+45,SBI Mutual Fund,Focused Fund,SBI Focused Fund 46,100090,100091,0.7,1.7,1.0,2370.0,10.1,1.81,1.177
+46,HDFC Mutual Fund,Multi Cap Fund,HDFC Multi Cap Fund 47,100092,100093,0.47,1.86,1.39,344.0,9.1,0.28,0.979
+47,ICICI Prudential Mutual Fund,Large & Mid Cap Fund,ICICI Large & Mid Cap Fund 48,100094,100095,0.44,1.48,1.04,769.0,9.3,0.27,0.722
+48,Nippon India Mutual Fund,Value Fund,Nippon Value Fund 49,100096,100097,0.48,1.8,1.32,1208.0,11.8,0.7,1.074
+49,Kotak Mahindra Mutual Fund,Contra Fund,Kotak Contra Fund 50,100098,100099,0.33,0.92,0.59,218.0,8.4,1.44,1.082
+50,Axis Mutual Fund,Large Cap Fund,Axis Large Cap Fund 51,100100,100101,0.79,2.02,1.23,53.0,12.1,0.82,0.963
+51,UTI Mutual Fund,Mid Cap Fund,UTI Mid Cap Fund 52,100102,100103,0.31,0.89,0.58,1451.0,14.5,2.12,1.118
+52,Mirae Asset Mutual Fund,Small Cap Fund,Mirae Small Cap Fund 53,100104,100105,0.39,1.3,0.91,538.0,8.7,1.84,1.096
+53,DSP Mutual Fund,Flexi Cap Fund,DSP Flexi Cap Fund 54,100106,100107,0.78,1.56,0.78,412.0,11.3,1.48,1.067
+54,Franklin Templeton Mutual Fund,ELSS,Franklin ELSS 55,100108,100109,0.42,1.34,0.92,7335.0,1.2,0.47,0.728
+55,Aditya Birla Sun Life Mutual Fund,Focused Fund,Aditya Focused Fund 56,100110,100111,0.73,1.27,0.54,379.0,10.9,1.29,0.759
+56,Tata Mutual Fund,Multi Cap Fund,Tata Multi Cap Fund 57,100112,100113,0.54,1.53,0.99,751.0,6.6,1.62,1.081
+57,PGIM India Mutual Fund,Large & Mid Cap Fund,PGIM Large & Mid Cap Fund 58,100114,100115,0.49,1.04,0.55,169.0,9.8,1.36,1.214
+58,Edelweiss Mutual Fund,Value Fund,Edelweiss Value Fund 59,100116,100117,0.38,1.54,1.16,1478.0,1.4,1.55,1.264
+59,Bandhan Mutual Fund,Contra Fund,Bandhan Contra Fund 60,100118,100119,0.49,1.57,1.08,446.0,10.0,1.25,1.027
+60,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 61,100120,100121,0.49,1.93,1.44,1672.0,2.0,0.93,1.207
+61,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 62,100122,100123,0.71,1.23,0.52,431.0,4.9,0.47,1.118
+62,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 63,100124,100125,0.74,1.87,1.13,3712.0,4.9,0.61,1.15
+63,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 64,100126,100127,0.8,2.11,1.31,2820.0,6.8,1.06,1.166
+64,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 65,100128,100129,0.77,1.61,0.84,791.0,11.5,1.94,0.762
+65,Axis Mutual Fund,Focused Fund,Axis Focused Fund 66,100130,100131,0.55,1.95,1.4,5700.0,12.6,0.94,1.237
+66,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 67,100132,100133,0.31,1.2,0.89,1783.0,14.3,1.52,1.079
+67,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 68,100134,100135,0.45,1.4,0.95,902.0,5.6,1.75,1.151
+68,DSP Mutual Fund,Value Fund,DSP Value Fund 69,100136,100137,0.69,1.98,1.29,1077.0,1.8,1.46,0.965
+69,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 70,100138,100139,0.48,1.87,1.39,285.0,2.6,0.53,1.157
+70,Aditya Birla Sun Life Mutual Fund,Large Cap Fund,Aditya Large Cap Fund 71,100140,100141,0.35,1.47,1.12,1584.0,2.0,2.09,1.124
+71,Tata Mutual Fund,Mid Cap Fund,Tata Mid Cap Fund 72,100142,100143,0.34,0.92,0.58,513.0,14.8,1.06,0.922
+72,PGIM India Mutual Fund,Small Cap Fund,PGIM Small Cap Fund 73,100144,100145,0.77,2.08,1.31,373.0,11.9,1.48,0.955
+73,Edelweiss Mutual Fund,Flexi Cap Fund,Edelweiss Flexi Cap Fund 74,100146,100147,0.36,1.77,1.41,796.0,7.9,0.23,0.981
+74,Bandhan Mutual Fund,ELSS,Bandhan ELSS 75,100148,100149,0.36,0.92,0.56,1779.0,11.4,1.54,1.277
+75,SBI Mutual Fund,Focused Fund,SBI Focused Fund 76,100150,100151,0.44,1.31,0.87,317.0,13.2,0.71,1.278
+76,HDFC Mutual Fund,Multi Cap Fund,HDFC Multi Cap Fund 77,100152,100153,0.78,1.29,0.51,1535.0,2.0,1.47,1.282
+77,ICICI Prudential Mutual Fund,Large & Mid Cap Fund,ICICI Large & Mid Cap Fund 78,100154,100155,0.61,1.63,1.02,1118.0,10.7,1.25,1.077
+78,Nippon India Mutual Fund,Value Fund,Nippon Value Fund 79,100156,100157,0.75,1.83,1.08,29281.0,4.9,0.63,0.978
+79,Kotak Mahindra Mutual Fund,Contra Fund,Kotak Contra Fund 80,100158,100159,0.59,1.44,0.85,326.0,2.1,2.44,1.292
+80,Axis Mutual Fund,Large Cap Fund,Axis Large Cap Fund 81,100160,100161,0.57,1.77,1.2,4563.0,10.6,0.57,1.247
+81,UTI Mutual Fund,Mid Cap Fund,UTI Mid Cap Fund 82,100162,100163,0.77,2.09,1.32,462.0,11.2,1.61,0.951
+82,Mirae Asset Mutual Fund,Small Cap Fund,Mirae Small Cap Fund 83,100164,100165,0.73,2.16,1.43,6433.0,14.8,0.55,1.056
+83,DSP Mutual Fund,Flexi Cap Fund,DSP Flexi Cap Fund 84,100166,100167,0.78,1.66,0.88,543.0,12.8,2.13,0.981
+84,Franklin Templeton Mutual Fund,ELSS,Franklin ELSS 85,100168,100169,0.44,1.35,0.91,1105.0,11.8,2.37,1.21
+85,Aditya Birla Sun Life Mutual Fund,Focused Fund,Aditya Focused Fund 86,100170,100171,0.53,1.28,0.75,1177.0,2.8,2.39,1.064
+86,Tata Mutual Fund,Multi Cap Fund,Tata Multi Cap Fund 87,100172,100173,0.64,1.37,0.73,110.0,2.6,1.74,1.012
+87,PGIM India Mutual Fund,Large & Mid Cap Fund,PGIM Large & Mid Cap Fund 88,100174,100175,0.56,1.83,1.27,7454.0,12.9,1.47,1.037
+88,Edelweiss Mutual Fund,Value Fund,Edelweiss Value Fund 89,100176,100177,0.5,1.88,1.38,2887.0,10.9,0.69,0.782
+89,Bandhan Mutual Fund,Contra Fund,Bandhan Contra Fund 90,100178,100179,0.48,0.99,0.51,8544.0,9.3,1.1,0.962
+90,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 91,100180,100181,0.47,1.87,1.4,10441.0,6.6,1.63,1.217
+91,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 92,100182,100183,0.37,1.82,1.45,1226.0,14.0,1.33,0.855
+92,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 93,100184,100185,0.79,1.75,0.96,49.0,9.9,0.75,0.746
+93,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 94,100186,100187,0.36,0.99,0.63,959.0,3.1,0.52,1.085
+94,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 95,100188,100189,0.47,1.15,0.68,998.0,10.3,0.6,0.815
+95,Axis Mutual Fund,Focused Fund,Axis Focused Fund 96,100190,100191,0.38,0.92,0.54,4595.0,4.9,0.61,0.753
+96,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 97,100192,100193,0.53,1.15,0.62,478.0,8.0,1.79,0.724
+97,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 98,100194,100195,0.61,1.91,1.3,182.0,2.1,2.21,1.253
+98,DSP Mutual Fund,Value Fund,DSP Value Fund 99,100196,100197,0.44,1.0,0.56,2755.0,3.6,0.68,0.922
+99,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 100,100198,100199,0.61,1.59,0.98,3416.0,6.2,1.26,1.148
+100,Aditya Birla Sun Life Mutual Fund,Large Cap Fund,Aditya Large Cap Fund 101,100200,100201,0.43,0.97,0.54,2604.0,8.2,1.42,0.764
+101,Tata Mutual Fund,Mid Cap Fund,Tata Mid Cap Fund 102,100202,100203,0.57,1.52,0.95,1749.0,4.4,0.82,0.926
+102,PGIM India Mutual Fund,Small Cap Fund,PGIM Small Cap Fund 103,100204,100205,0.46,0.98,0.52,416.0,2.7,2.25,1.056
+103,Edelweiss Mutual Fund,Flexi Cap Fund,Edelweiss Flexi Cap Fund 104,100206,100207,0.69,1.87,1.18,217.0,8.0,0.4,1.022
+104,Bandhan Mutual Fund,ELSS,Bandhan ELSS 105,100208,100209,0.67,1.76,1.09,231.0,5.0,1.04,1.088
+105,SBI Mutual Fund,Focused Fund,SBI Focused Fund 106,100210,100211,0.48,1.55,1.07,824.0,14.8,1.59,0.842
+106,HDFC Mutual Fund,Multi Cap Fund,HDFC Multi Cap Fund 107,100212,100213,0.38,0.98,0.6,413.0,3.6,0.86,0.804
+107,ICICI Prudential Mutual Fund,Large & Mid Cap Fund,ICICI Large & Mid Cap Fund 108,100214,100215,0.34,1.74,1.4,528.0,8.3,1.14,1.289
+108,Nippon India Mutual Fund,Value Fund,Nippon Value Fund 109,100216,100217,0.5,1.11,0.61,462.0,3.4,1.74,1.258
+109,Kotak Mahindra Mutual Fund,Contra Fund,Kotak Contra Fund 110,100218,100219,0.59,1.65,1.06,3405.0,4.9,1.97,0.812
+110,Axis Mutual Fund,Large Cap Fund,Axis Large Cap Fund 111,100220,100221,0.51,1.33,0.82,95.0,2.6,1.6,0.873
+111,UTI Mutual Fund,Mid Cap Fund,UTI Mid Cap Fund 112,100222,100223,0.38,1.46,1.08,1179.0,7.7,1.42,0.731
+112,Mirae Asset Mutual Fund,Small Cap Fund,Mirae Small Cap Fund 113,100224,100225,0.37,1.21,0.84,4961.0,4.6,1.77,1.156
+113,DSP Mutual Fund,Flexi Cap Fund,DSP Flexi Cap Fund 114,100226,100227,0.54,1.64,1.1,462.0,6.8,1.0,1.258
+114,Franklin Templeton Mutual Fund,ELSS,Franklin ELSS 115,100228,100229,0.78,2.11,1.33,1914.0,14.1,0.62,0.74
+115,Aditya Birla Sun Life Mutual Fund,Focused Fund,Aditya Focused Fund 116,100230,100231,0.59,1.83,1.24,443.0,12.8,0.52,1.177
+116,Tata Mutual Fund,Multi Cap Fund,Tata Multi Cap Fund 117,100232,100233,0.38,1.08,0.7,1982.0,10.3,1.4,0.915
+117,PGIM India Mutual Fund,Large & Mid Cap Fund,PGIM Large & Mid Cap Fund 118,100234,100235,0.5,1.88,1.38,583.0,12.4,1.21,0.926
+118,Edelweiss Mutual Fund,Value Fund,Edelweiss Value Fund 119,100236,100237,0.45,1.41,0.96,1127.0,4.3,2.27,0.93
+119,Bandhan Mutual Fund,Contra Fund,Bandhan Contra Fund 120,100238,100239,0.75,1.79,1.04,13557.0,9.7,0.47,1.264
+120,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 121,100240,100241,0.47,1.6,1.13,1822.0,9.7,1.43,1.236
+121,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 122,100242,100243,0.38,1.67,1.29,588.0,5.4,0.77,1.146
+122,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 123,100244,100245,0.58,1.11,0.53,2250.0,5.8,2.09,0.766
+123,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 124,100246,100247,0.36,1.71,1.35,1809.0,6.6,2.03,0.79
+124,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 125,100248,100249,0.66,1.39,0.73,4042.0,10.7,1.45,0.851
+125,Axis Mutual Fund,Focused Fund,Axis Focused Fund 126,100250,100251,0.39,1.24,0.85,8379.0,13.7,1.54,0.941
+126,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 127,100252,100253,0.77,1.73,0.96,1669.0,8.1,1.61,0.711
+127,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 128,100254,100255,0.77,2.14,1.37,203.0,8.9,1.8,1.253
+128,DSP Mutual Fund,Value Fund,DSP Value Fund 129,100256,100257,0.38,1.59,1.21,18454.0,6.9,1.89,1.261
+129,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 130,100258,100259,0.53,1.96,1.43,8251.0,2.6,2.47,1.203
+130,Aditya Birla Sun Life Mutual Fund,Large Cap Fund,Aditya Large Cap Fund 131,100260,100261,0.76,1.38,0.62,1192.0,9.3,1.12,0.733
+131,Tata Mutual Fund,Mid Cap Fund,Tata Mid Cap Fund 132,100262,100263,0.7,1.54,0.84,5661.0,1.1,0.97,0.939
+132,PGIM India Mutual Fund,Small Cap Fund,PGIM Small Cap Fund 133,100264,100265,0.76,1.8,1.04,158.0,11.3,1.24,0.835
+133,Edelweiss Mutual Fund,Flexi Cap Fund,Edelweiss Flexi Cap Fund 134,100266,100267,0.37,1.32,0.95,157.0,3.5,1.35,0.951
+134,Bandhan Mutual Fund,ELSS,Bandhan ELSS 135,100268,100269,0.48,1.89,1.41,17561.0,1.2,1.73,0.807
+135,SBI Mutual Fund,Focused Fund,SBI Focused Fund 136,100270,100271,0.37,1.83,1.46,5942.0,6.8,0.4,1.298
+136,HDFC Mutual Fund,Multi Cap Fund,HDFC Multi Cap Fund 137,100272,100273,0.6,1.6,1.0,1120.0,3.9,2.27,0.823
+137,ICICI Prudential Mutual Fund,Large & Mid Cap Fund,ICICI Large & Mid Cap Fund 138,100274,100275,0.32,1.01,0.69,1058.0,7.6,1.5,0.739
+138,Nippon India Mutual Fund,Value Fund,Nippon Value Fund 139,100276,100277,0.53,1.81,1.28,21.0,6.6,1.49,0.793
+139,Kotak Mahindra Mutual Fund,Contra Fund,Kotak Contra Fund 140,100278,100279,0.73,1.41,0.68,5638.0,14.2,1.06,0.862
+140,Axis Mutual Fund,Large Cap Fund,Axis Large Cap Fund 141,100280,100281,0.5,1.64,1.14,4463.0,1.4,0.71,0.839
+141,UTI Mutual Fund,Mid Cap Fund,UTI Mid Cap Fund 142,100282,100283,0.31,1.48,1.17,7386.0,2.5,2.04,0.807
+142,Mirae Asset Mutual Fund,Small Cap Fund,Mirae Small Cap Fund 143,100284,100285,0.42,1.57,1.15,765.0,11.1,2.17,1.198
+143,DSP Mutual Fund,Flexi Cap Fund,DSP Flexi Cap Fund 144,100286,100287,0.63,1.53,0.9,625.0,3.9,0.87,1.238
+144,Franklin Templeton Mutual Fund,ELSS,Franklin ELSS 145,100288,100289,0.34,0.85,0.51,1789.0,6.9,2.25,1.19
+145,Aditya Birla Sun Life Mutual Fund,Focused Fund,Aditya Focused Fund 146,100290,100291,0.43,1.27,0.84,168.0,6.3,1.56,0.861
+146,Tata Mutual Fund,Multi Cap Fund,Tata Multi Cap Fund 147,100292,100293,0.5,1.62,1.12,48.0,5.1,2.38,1.158
+147,PGIM India Mutual Fund,Large & Mid Cap Fund,PGIM Large & Mid Cap Fund 148,100294,100295,0.73,1.37,0.64,13970.0,7.8,2.26,1.18
+148,Edelweiss Mutual Fund,Value Fund,Edelweiss Value Fund 149,100296,100297,0.31,1.24,0.93,1740.0,9.9,0.79,0.784
+149,Bandhan Mutual Fund,Contra Fund,Bandhan Contra Fund 150,100298,100299,0.79,2.12,1.33,84.0,8.4,0.59,0.863
+150,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 151,100300,100301,0.76,1.28,0.52,1471.0,4.8,1.47,1.091
+151,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 152,100302,100303,0.4,1.73,1.33,253.0,1.2,0.51,1.24
+152,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 153,100304,100305,0.6,1.97,1.37,13336.0,3.5,2.3,0.951
+153,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 154,100306,100307,0.56,1.44,0.88,5022.0,1.7,0.58,1.143
+154,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 155,100308,100309,0.6,1.18,0.58,438.0,5.0,1.02,1.131
+155,Axis Mutual Fund,Focused Fund,Axis Focused Fund 156,100310,100311,0.58,1.38,0.8,133.0,7.7,1.73,1.262
+156,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 157,100312,100313,0.41,1.64,1.23,462.0,7.9,1.57,0.901
+157,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 158,100314,100315,0.35,1.62,1.27,1317.0,2.1,1.87,0.997
+158,DSP Mutual Fund,Value Fund,DSP Value Fund 159,100316,100317,0.52,1.71,1.19,3170.0,12.2,1.8,0.863
+159,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 160,100318,100319,0.48,1.57,1.09,472.0,2.3,2.31,0.782
+160,Aditya Birla Sun Life Mutual Fund,Large Cap Fund,Aditya Large Cap Fund 161,100320,100321,0.52,1.97,1.45,1432.0,13.2,1.88,1.184
+161,Tata Mutual Fund,Mid Cap Fund,Tata Mid Cap Fund 162,100322,100323,0.65,1.81,1.16,148.0,12.9,0.77,0.994
+162,PGIM India Mutual Fund,Small Cap Fund,PGIM Small Cap Fund 163,100324,100325,0.79,1.51,0.72,2089.0,3.5,1.51,1.249
+163,Edelweiss Mutual Fund,Flexi Cap Fund,Edelweiss Flexi Cap Fund 164,100326,100327,0.65,1.18,0.53,1497.0,5.2,2.33,1.283
+164,Bandhan Mutual Fund,ELSS,Bandhan ELSS 165,100328,100329,0.54,1.98,1.44,1144.0,5.5,2.11,0.722
+165,SBI Mutual Fund,Focused Fund,SBI Focused Fund 166,100330,100331,0.42,1.52,1.1,1147.0,2.7,0.38,1.118
+166,HDFC Mutual Fund,Multi Cap Fund,HDFC Multi Cap Fund 167,100332,100333,0.66,1.5,0.84,829.0,8.6,2.02,0.891
+167,ICICI Prudential Mutual Fund,Large & Mid Cap Fund,ICICI Large & Mid Cap Fund 168,100334,100335,0.74,1.87,1.13,567.0,9.6,0.74,0.715
+168,Nippon India Mutual Fund,Value Fund,Nippon Value Fund 169,100336,100337,0.31,1.68,1.37,1241.0,14.1,2.04,1.299
+169,Kotak Mahindra Mutual Fund,Contra Fund,Kotak Contra Fund 170,100338,100339,0.68,1.53,0.85,5422.0,6.6,1.3,1.077
+170,Axis Mutual Fund,Large Cap Fund,Axis Large Cap Fund 171,100340,100341,0.79,2.16,1.37,562.0,6.9,1.9,0.843
+171,UTI Mutual Fund,Mid Cap Fund,UTI Mid Cap Fund 172,100342,100343,0.48,1.09,0.61,9702.0,5.0,0.88,0.84
+172,Mirae Asset Mutual Fund,Small Cap Fund,Mirae Small Cap Fund 173,100344,100345,0.31,0.85,0.54,1041.0,6.4,1.76,0.831
+173,DSP Mutual Fund,Flexi Cap Fund,DSP Flexi Cap Fund 174,100346,100347,0.69,2.14,1.45,1558.0,2.3,1.16,1.227
+174,Franklin Templeton Mutual Fund,ELSS,Franklin ELSS 175,100348,100349,0.53,1.97,1.44,204.0,14.9,0.73,1.266
+175,Aditya Birla Sun Life Mutual Fund,Focused Fund,Aditya Focused Fund 176,100350,100351,0.6,1.75,1.15,1946.0,8.2,0.73,0.806
+176,Tata Mutual Fund,Multi Cap Fund,Tata Multi Cap Fund 177,100352,100353,0.39,1.11,0.72,422.0,1.8,2.43,1.23
+177,PGIM India Mutual Fund,Large & Mid Cap Fund,PGIM Large & Mid Cap Fund 178,100354,100355,0.8,2.23,1.43,6526.0,3.4,1.11,1.155
+178,Edelweiss Mutual Fund,Value Fund,Edelweiss Value Fund 179,100356,100357,0.38,1.58,1.2,479.0,4.1,1.44,1.056
+179,Bandhan Mutual Fund,Contra Fund,Bandhan Contra Fund 180,100358,100359,0.35,1.43,1.08,2834.0,13.3,0.81,0.778
+180,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 181,100360,100361,0.78,2.17,1.39,1684.0,10.2,1.47,0.752
+181,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 182,100362,100363,0.49,1.4,0.91,1811.0,4.6,1.86,0.998
+182,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 183,100364,100365,0.41,0.99,0.58,505.0,12.9,1.34,0.988
+183,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 184,100366,100367,0.71,1.8,1.09,1534.0,5.9,1.76,1.039
+184,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 185,100368,100369,0.74,1.51,0.77,2660.0,12.9,2.19,1.125
+185,Axis Mutual Fund,Focused Fund,Axis Focused Fund 186,100370,100371,0.65,1.99,1.34,5785.0,10.5,1.62,1.152
+186,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 187,100372,100373,0.74,1.4,0.66,853.0,5.7,1.91,0.796
+187,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 188,100374,100375,0.72,2.04,1.32,1367.0,8.1,0.21,0.872
+188,DSP Mutual Fund,Value Fund,DSP Value Fund 189,100376,100377,0.79,1.91,1.12,143.0,9.9,1.44,1.168
+189,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 190,100378,100379,0.68,1.29,0.61,3359.0,8.6,2.41,0.905
+190,Aditya Birla Sun Life Mutual Fund,Large Cap Fund,Aditya Large Cap Fund 191,100380,100381,0.77,1.9,1.13,561.0,5.2,1.83,0.74
+191,Tata Mutual Fund,Mid Cap Fund,Tata Mid Cap Fund 192,100382,100383,0.47,1.55,1.08,1467.0,9.7,0.31,1.223
+192,PGIM India Mutual Fund,Small Cap Fund,PGIM Small Cap Fund 193,100384,100385,0.78,2.25,1.47,474.0,11.6,0.26,0.713
+193,Edelweiss Mutual Fund,Flexi Cap Fund,Edelweiss Flexi Cap Fund 194,100386,100387,0.54,1.36,0.82,1931.0,11.8,1.77,0.968
+194,Bandhan Mutual Fund,ELSS,Bandhan ELSS 195,100388,100389,0.8,1.57,0.77,125.0,3.3,2.03,1.116
+195,SBI Mutual Fund,Focused Fund,SBI Focused Fund 196,100390,100391,0.34,1.06,0.72,41.0,10.5,1.71,0.864
+196,HDFC Mutual Fund,Multi Cap Fund,HDFC Multi Cap Fund 197,100392,100393,0.38,1.83,1.45,2908.0,6.9,1.67,0.939
+197,ICICI Prudential Mutual Fund,Large & Mid Cap Fund,ICICI Large & Mid Cap Fund 198,100394,100395,0.79,1.56,0.77,945.0,6.7,2.26,0.838
+198,Nippon India Mutual Fund,Value Fund,Nippon Value Fund 199,100396,100397,0.32,1.03,0.71,168.0,13.1,1.29,1.281
+199,Kotak Mahindra Mutual Fund,Contra Fund,Kotak Contra Fund 200,100398,100399,0.73,1.42,0.69,9563.0,11.9,1.97,1.207
+200,Axis Mutual Fund,Large Cap Fund,Axis Large Cap Fund 201,100400,100401,0.61,1.87,1.26,1473.0,12.2,1.31,0.77
+201,UTI Mutual Fund,Mid Cap Fund,UTI Mid Cap Fund 202,100402,100403,0.64,1.27,0.63,3176.0,7.0,0.66,0.995
+202,Mirae Asset Mutual Fund,Small Cap Fund,Mirae Small Cap Fund 203,100404,100405,0.59,1.15,0.56,3870.0,5.3,1.25,0.707
+203,DSP Mutual Fund,Flexi Cap Fund,DSP Flexi Cap Fund 204,100406,100407,0.5,1.07,0.57,412.0,7.7,1.58,0.875
+204,Franklin Templeton Mutual Fund,ELSS,Franklin ELSS 205,100408,100409,0.73,1.92,1.19,257.0,4.4,2.47,0.785
+205,Aditya Birla Sun Life Mutual Fund,Focused Fund,Aditya Focused Fund 206,100410,100411,0.61,1.61,1.0,1021.0,10.8,1.49,0.706
+206,Tata Mutual Fund,Multi Cap Fund,Tata Multi Cap Fund 207,100412,100413,0.56,1.39,0.83,757.0,1.5,0.38,0.938
+207,PGIM India Mutual Fund,Large & Mid Cap Fund,PGIM Large & Mid Cap Fund 208,100414,100415,0.58,1.21,0.63,394.0,10.7,2.04,0.82
+208,Edelweiss Mutual Fund,Value Fund,Edelweiss Value Fund 209,100416,100417,0.35,1.02,0.67,8947.0,1.4,2.35,0.731
+209,Bandhan Mutual Fund,Contra Fund,Bandhan Contra Fund 210,100418,100419,0.65,1.69,1.04,4389.0,13.2,1.84,1.181
+210,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 211,100420,100421,0.71,1.55,0.84,7912.0,7.3,1.68,1.016
+211,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 212,100422,100423,0.34,1.57,1.23,1475.0,1.8,0.77,0.796
+212,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 213,100424,100425,0.41,1.78,1.37,2402.0,10.2,1.35,1.033
+213,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 214,100426,100427,0.41,1.63,1.22,464.0,14.9,2.44,1.09
+214,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 215,100428,100429,0.64,1.34,0.7,745.0,13.2,1.87,1.146
+215,Axis Mutual Fund,Focused Fund,Axis Focused Fund 216,100430,100431,0.47,1.4,0.93,90.0,6.2,2.47,0.724
+216,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 217,100432,100433,0.59,1.96,1.37,13710.0,7.8,2.21,1.24
+217,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 218,100434,100435,0.44,1.36,0.92,551.0,9.3,2.3,0.826
+218,DSP Mutual Fund,Value Fund,DSP Value Fund 219,100436,100437,0.62,1.74,1.12,429.0,11.0,2.29,0.808
+219,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 220,100438,100439,0.79,1.53,0.74,1986.0,3.5,2.17,0.995
+220,Aditya Birla Sun Life Mutual Fund,Large Cap Fund,Aditya Large Cap Fund 221,100440,100441,0.74,1.49,0.75,3490.0,6.0,1.56,0.798
+221,Tata Mutual Fund,Mid Cap Fund,Tata Mid Cap Fund 222,100442,100443,0.78,1.67,0.89,15.0,4.6,1.71,0.895
+222,PGIM India Mutual Fund,Small Cap Fund,PGIM Small Cap Fund 223,100444,100445,0.37,1.64,1.27,1022.0,4.3,0.37,0.802
+223,Edelweiss Mutual Fund,Flexi Cap Fund,Edelweiss Flexi Cap Fund 224,100446,100447,0.47,1.49,1.02,2243.0,12.6,1.19,0.849
+224,Bandhan Mutual Fund,ELSS,Bandhan ELSS 225,100448,100449,0.65,1.77,1.12,650.0,1.5,1.89,1.098
+225,SBI Mutual Fund,Focused Fund,SBI Focused Fund 226,100450,100451,0.72,1.69,0.97,649.0,12.3,1.55,1.221
+226,HDFC Mutual Fund,Multi Cap Fund,HDFC Multi Cap Fund 227,100452,100453,0.36,1.07,0.71,985.0,8.4,2.35,0.724
+227,ICICI Prudential Mutual Fund,Large & Mid Cap Fund,ICICI Large & Mid Cap Fund 228,100454,100455,0.53,1.15,0.62,1037.0,14.1,0.93,1.004
+228,Nippon India Mutual Fund,Value Fund,Nippon Value Fund 229,100456,100457,0.37,0.91,0.54,4335.0,7.4,1.39,0.993
+229,Kotak Mahindra Mutual Fund,Contra Fund,Kotak Contra Fund 230,100458,100459,0.37,1.54,1.17,1844.0,1.4,0.91,1.123
+230,Axis Mutual Fund,Large Cap Fund,Axis Large Cap Fund 231,100460,100461,0.64,1.34,0.7,430.0,13.2,0.61,1.116
+231,UTI Mutual Fund,Mid Cap Fund,UTI Mid Cap Fund 232,100462,100463,0.77,2.11,1.34,19362.0,10.6,1.34,1.071
+232,Mirae Asset Mutual Fund,Small Cap Fund,Mirae Small Cap Fund 233,100464,100465,0.59,1.96,1.37,5758.0,4.0,1.72,0.936
+233,DSP Mutual Fund,Flexi Cap Fund,DSP Flexi Cap Fund 234,100466,100467,0.35,1.5,1.15,6506.0,10.2,2.5,0.729
+234,Franklin Templeton Mutual Fund,ELSS,Franklin ELSS 235,100468,100469,0.5,1.98,1.48,1776.0,8.9,1.9,1.227
+235,Aditya Birla Sun Life Mutual Fund,Focused Fund,Aditya Focused Fund 236,100470,100471,0.46,1.36,0.9,2065.0,10.3,2.06,1.157
+236,Tata Mutual Fund,Multi Cap Fund,Tata Multi Cap Fund 237,100472,100473,0.52,1.82,1.3,876.0,8.6,0.21,0.895
+237,PGIM India Mutual Fund,Large & Mid Cap Fund,PGIM Large & Mid Cap Fund 238,100474,100475,0.5,1.37,0.87,1324.0,10.7,1.09,0.969
+238,Edelweiss Mutual Fund,Value Fund,Edelweiss Value Fund 239,100476,100477,0.49,1.23,0.74,12875.0,9.7,1.27,0.928
+239,Bandhan Mutual Fund,Contra Fund,Bandhan Contra Fund 240,100478,100479,0.56,1.92,1.36,4988.0,7.7,0.26,0.905
+240,SBI Mutual Fund,Large Cap Fund,SBI Large Cap Fund 241,100480,100481,0.5,1.38,0.88,5084.0,9.5,1.96,1.188
+241,HDFC Mutual Fund,Mid Cap Fund,HDFC Mid Cap Fund 242,100482,100483,0.78,2.0,1.22,42601.0,1.3,0.65,0.705
+242,ICICI Prudential Mutual Fund,Small Cap Fund,ICICI Small Cap Fund 243,100484,100485,0.75,1.9,1.15,1282.0,1.8,2.35,0.911
+243,Nippon India Mutual Fund,Flexi Cap Fund,Nippon Flexi Cap Fund 244,100486,100487,0.54,1.14,0.6,998.0,4.6,0.86,0.884
+244,Kotak Mahindra Mutual Fund,ELSS,Kotak ELSS 245,100488,100489,0.57,1.87,1.3,4348.0,11.0,0.83,0.948
+245,Axis Mutual Fund,Focused Fund,Axis Focused Fund 246,100490,100491,0.39,1.01,0.62,104.0,10.5,0.62,1.015
+246,UTI Mutual Fund,Multi Cap Fund,UTI Multi Cap Fund 247,100492,100493,0.35,1.56,1.21,101.0,14.5,1.31,1.184
+247,Mirae Asset Mutual Fund,Large & Mid Cap Fund,Mirae Large & Mid Cap Fund 248,100494,100495,0.32,1.37,1.05,2123.0,9.9,2.39,1.061
+248,DSP Mutual Fund,Value Fund,DSP Value Fund 249,100496,100497,0.74,2.06,1.32,383.0,9.6,1.15,1.204
+249,Franklin Templeton Mutual Fund,Contra Fund,Franklin Contra Fund 250,100498,100499,0.48,1.88,1.4,406.0,4.3,2.0,0.865
