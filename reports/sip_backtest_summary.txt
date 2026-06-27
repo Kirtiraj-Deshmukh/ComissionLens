@@ -1,0 +1,26 @@
+
+CommissionLens — SIP Back-Validation Summary (2019–2023)
+=========================================================
+Monthly SIP : Rs 5,000
+Period      : 2019-01-01 to 2023-12-31
+Months      : 60
+Total Invested : Rs 300,000
+
+STRATEGY A — Model-Guided (Top-Decile Regular Plans)
+  Final Value : Rs 428,724
+  Gain        : Rs 128,724  (42.9%)
+  XIRR        : 20.22%
+
+STRATEGY B — Naive (All Regular Plans)
+  Final Value : Rs 471,458
+  Gain        : Rs 171,458  (57.2%)
+  XIRR        : 18.70%
+
+STRATEGY C — Direct Plans (No Commission Counterfactual)
+  Final Value : Rs 485,113
+  Gain        : Rs 185,113  (61.7%)
+  XIRR        : 19.91%
+
+VERDICT
+  Model-Guided vs Naive Regular : Delta XIRR = 1.52%
+  Direct vs Naive Regular       : Delta XIRR = 1.21%

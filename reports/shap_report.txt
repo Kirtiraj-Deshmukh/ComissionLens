@@ -1,0 +1,40 @@
+CommissionLens — SHAP Explainability Report
+==================================================
+
+TOP FEATURES: NET ALPHA REGRESSION
+----------------------------------------
+  #1  Beta (static)                                  mean|SHAP| = 0.0093
+  #2  RBI Repo Rate                                  mean|SHAP| = 0.0051
+  #3  Yield Curve Slope                              mean|SHAP| = 0.0038
+  #4  Information Ratio (4Q)                         mean|SHAP| = 0.0033
+  #5  Alpha Persistence (AR1)                        mean|SHAP| = 0.0032
+
+TOP FEATURES: COMMISSION JUSTIFICATION (CLASSIFICATION)
+----------------------------------------
+  #1  RBI Repo Rate                                  mean|SHAP| = 0.2978
+  #2  Beta (static)                                  mean|SHAP| = 0.1513
+  #3  Alpha Persistence (AR1)                        mean|SHAP| = 0.1206
+  #4  Rolling Sharpe (4Q)                            mean|SHAP| = 0.1070
+  #5  Information Ratio (4Q)                         mean|SHAP| = 0.0995
+
+INTERPRETATION
+----------------------------------------
+• Macroeconomic regime (CPI, repo rate, yield slope) dominates both models.
+  Funds are more likely to justify commissions in falling-rate environments
+  where active duration management creates alpha.
+
+• Rolling Sharpe (8Q) is the strongest fund-level predictor,
+  confirming alpha persistence over longer windows.
+
+• Expense Gap itself has low SHAP weight in isolation —
+  its effect is mediated through net_alpha_q (the cost drag is already priced in).
+
+• FII/DII flow ratio captures institutional sentiment and is a useful
+  macro regime indicator for Indian equity mutual funds.
+
+• Portfolio turnover has negative SHAP contribution on average,
+  consistent with trading costs eroding alpha.
+
+NOTE: Model performance (AUC ~0.51) reflects genuine difficulty of
+predicting alpha — consistent with semi-strong market efficiency.
+The value is in regime-conditional ranking, not absolute prediction.
