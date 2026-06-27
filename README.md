@@ -131,9 +131,4 @@ mfapi.in (NAV history) and AMFI (fund list) are fetched automatically.
 
 ---
 
-## Mentor
-Harshita Sharma — 98276 15327
-
----
-
 *ML · FinTech · Python · Indian Markets*
